@@ -1,5 +1,5 @@
 
-# Verifikasi World ID untuk Bangsa World 🌍
+# New World Order 🌍
 
 Aplikasi ini memungkinkan pengguna melakukan verifikasi dengan Worldcoin (World ID).
 
